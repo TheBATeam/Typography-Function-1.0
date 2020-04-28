@@ -1,0 +1,31 @@
+
+This is the typography function created by Kvc for making batch programs
+awesome. Program Ver.1.0, Final Release Date: 22-Dec-2015
+
+Syntax: Call Typo [ Font | '-' ] [X] [Y] [Color] [Text]
+Syntax: Call Typo [/? | Help | -H | /H]
+ 
+Where:-
+ [Font | - ]	: Relative / Full path or name of the Font file, It is not
+		  the regular 'ttf' File, It is the specially created file for
+		  the typo function using 'Bpaints' by kvc. Font file contain
+		  code executable by 'Batbox.exe' Plugin of Batch. Or you can 
+		  simply specify '-' instead of Font file, If You've already 
+		  loaded the 'font file' & 'ASCII.DB' file via using 'Load.bat'
+		  utility provided within the typography function Folder. Font 
+		  file must have the extension 'FO', in order to load into the
+		  Cmd environment.
+ [X]		: The X position from where Typographic text will start.
+ [Y]		: The Y position from where Typographic text will start.
+ [Color]	: The color code [Hex] for the text to be printed. E.g. ff,f0..
+ [Text]		: The text to be printed on the console.
+
+ Example : Call Typo Pixcel.Fo 1 5 ff Typo function test 1...
+ Example : Call Typo - 5 5 a0 Typo function Test 2... [If used load.bat earlier]
+
+ As this is ver.1.0, it may contain some flaws or bugs, If you find anyone, 
+ Please do inform us at following link. or you can also contribute. Thanks ...
+
+ For more, visit: www.thebateam.org
+ #TheBATeam
+
