@@ -1,4 +1,4 @@
-# Typography-Function-1.0-
+# Typography-Function-1.0
 The **Typography function** will become the main tool for the **batch programmers** for editing amazing text (not simple ones). And, effects on the console, as it prints a **text string** on the console in a very unique way. You can show these texts simply on the **cmd console** with the help of this function. 
 # TYPOGRAPHY FUNCTION 1.0 – BY KVC
 The **Typography function** will become the main tool for the **batch programmers** for editing **amazing text** (not simple ones). And, effects on the console, as it prints a text string on the console in a very unique way. So, how is it different from the **Echo command**? Let us show you an example of it, with a picture. Which will clarify 90% of your doubts, The rest of the 10% we will clarify. That’s why we are here.
